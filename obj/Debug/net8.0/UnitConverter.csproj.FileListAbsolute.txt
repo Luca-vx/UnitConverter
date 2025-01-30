@@ -28,3 +28,4 @@ C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\UnitConverter\obj\Debug\net8.0\re
 C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\UnitConverter\obj\Debug\net8.0\UnitConverter.pdb
 C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\UnitConverter\obj\Debug\net8.0\UnitConverter.genruntimeconfig.cache
 C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\UnitConverter\obj\Debug\net8.0\ref\UnitConverter.dll
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\UnitConverter\obj\Debug\net8.0\UnitConverter.sourcelink.json
