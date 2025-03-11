@@ -2,6 +2,11 @@ html {
   font-size: 14px;
 }
 
+.navbar-brand{
+  border-style: solid;
+  border-color: yellow;
+}
+
 div.conversao{
   border-style: solid;
   border-width: medium;
